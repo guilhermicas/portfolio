@@ -137,6 +137,11 @@ header > i {
   font-weight: bold;
 }
 
+.prag-desc {
+  padding-top: 9px;
+  color: gray !important;
+}
+
 footer {
   box-shadow: inset 0px 1px 30px rgba(0, 0, 0, 0.5);
   background-color: #141414;
