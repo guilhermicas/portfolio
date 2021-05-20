@@ -46,6 +46,7 @@ header {
   font-family: "Roboto Slab", serif;
   color: #ffffff;
   padding-bottom: 36vh;
+  height: 96vh;
 }
 
 header > h1 {
